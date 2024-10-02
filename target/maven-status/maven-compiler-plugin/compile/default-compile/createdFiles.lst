@@ -1,0 +1,3 @@
+com\itheima\sh\pojo\Product.class
+com\itheima\sh\web\SetSessionServlet.class
+com\itheima\sh\web\GetSessionServlet.class

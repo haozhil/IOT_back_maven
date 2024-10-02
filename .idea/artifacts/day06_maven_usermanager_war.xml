@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="day06_maven-usermanager:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>day06_maven-usermanager</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="IOT_P-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="day06_maven-usermanager:war exploded" />
+    </root>
+  </artifact>
+</component>
